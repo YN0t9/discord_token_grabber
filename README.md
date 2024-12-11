@@ -5,7 +5,7 @@
 
 ## Notes on usage
 
-- This code was developed for educational and/or personal projects.  
+- This code was developed for educational and/or self usage.
 - Any commercial use or modification of the code without express permission is prohibited.  
 - Misuse of the code, especially for illegal or unethical purposes, is strictly prohibited.  
 
