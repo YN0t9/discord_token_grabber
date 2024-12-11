@@ -1,7 +1,7 @@
 # Discord Token Grabber
 
 **Description:**
-**This is a Discord account token grabber. Usage for *legal* purposes only. *Do not* use this without consent.**
+**This is a Discord account token grabber. Usage for *legal* purposes only. Do *not* use this without consent.**
 
 ## Notes on usage
 
